@@ -5,7 +5,7 @@ You need to just follow the steps given below ...
 
 # Steps
 
-## Install Windows Subsystem for Linux
+## Install Windows Subsystem for Linux (WSL)
 
  
 
