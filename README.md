@@ -1,6 +1,6 @@
-#  Jekyll on Windows 10
+#  Jekyll on Windows 10 :man_technologist:
 
-Hi! I struggle a lot to get Jekyll on my laptop which is having windows 10.
+Hi! I struggle a lot to get Jekyll on my laptop which is having windows 10.<br>
 You need to just follow the steps given below ...
 
 # Steps
@@ -72,6 +72,16 @@ sudo apt-get install rvm
   (either use make site or bundle exec jekyll serve)
   
   `bundle exec jekyll serve`
+
+
+## Congrats You did it. :clap:
+
+## If Server is not Opening 
+> Check that port is block or not.<br>
+> Check that the antivirus Installed in Your System ,Whether it is Blocking the localhost or not .
+
+<br>I used quick heal and it blocks the localhost:4000 in my case so I just On-Off Browsing Protection and then it is working fine.
+
 
 
 
